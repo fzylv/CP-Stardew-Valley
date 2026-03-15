@@ -1,0 +1,37 @@
+{
+    "Format": "2.8.0",
+    "Changes": [
+    
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Lewis",
+            "FromFile": "assets/LewisBetter-Portraits.png"
+        },
+
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Lewis_Winter",
+            "FromFile": "assets/LewisBetter_Winter-Portraits.png"
+        },
+
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Lewis",
+            "FromFile": "assets/LewisBetter.png"
+        },
+
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Lewis_Winter",
+            "FromFile": "assets/LewisBetter_Winter.png"
+        },
+
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Lewis_Beach",
+            "FromFile": "assets/LewisBetter_Beach.png"
+        }
+
+    ]
+
+}

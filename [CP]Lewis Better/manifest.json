@@ -1,0 +1,11 @@
+{
+	"Name": "Lewis Better",
+	"Author": "Neverlo",
+	"Version": "1.0.0",
+	"Description": "Makes Lewis face more bearable",
+	"UniqueID": "Neverlo.LewisBetter",
+	"ContentPackFor":
+    {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
